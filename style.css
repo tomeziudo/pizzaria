@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Raleway", sans-serif;
+  background-image: url("../imagens/fundo.jpg");
+  background-size: auto;
+}
+
+.logo-cabecalho {
+  width: 200px;
+  background-color: #b22d00;
+  width: 1000px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.disk {
+  color: white;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.fundo-menu {
+  background-color: #d9a300;
+  width: 1000px;
+  height: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 30px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.menu-navegacao a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.menu-navegacao {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.titulo {
+  font-size: 40px;
+  color: black;
+  padding-bottom: 15px;
+  border-bottom: 1px solid;
+}
+
+.fundo-imagens {
+  background-color: white;
+  width: 1000px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.imagens-top {
+  width: 300px;
+  height: 225px;
+  object-fit: cover;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.sabores-top {
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.titulo-sabores {
+  font-size: 14px;
+  font-weight: 500;
+  display: center;
+}
+
+.rodape {
+  background-color: white;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.rodape h3 {
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.rodape li {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.lateral-diretita {
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  margin-bottom: 15px;
+  margin-left: 15px;
+}
+
+.casa {
+  font-size: 30px;
+  font-weight: 500;
+  text-align: right;
+  float: left;
+}
+
+.credito {
+  background-color: #333333;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  width: 1000px;
+  height: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  font-size: 12px;
+  text-align: center;
+}
